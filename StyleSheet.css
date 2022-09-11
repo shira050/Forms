@@ -1,0 +1,114 @@
+﻿body {
+    direction:rtl;
+     
+      font-family:Arial, sans-serif;
+       background-image:url(images/pic3.jpg);
+        /*background-image:url(images/pic4.png);*/
+ background-size:40%;
+  
+   
+}
+p{
+    color:black;
+    text-align:center;
+    font-weight:bold;
+    font-size:18px;
+    font-family: Levenim MT;
+}
+h1{
+     font-size:40px;
+color:black;
+text-align:center;
+font-family: Levenim MT;
+}
+.sheelon{
+    background-color:#f3f4f0;
+    width:750px;
+    margin:auto;
+border: 2px solid gray;
+    border-radius:10px;
+
+}
+
+.sheelon p{
+    display:block;
+    text-align:right;
+    
+}
+.sheelon form{
+    margin-right:50px;
+    margin-left:30px;
+     margin-top:30px;
+   margin-bottom:30px;
+ 
+}
+
+.sheelon p{
+    color:#9ebfa7;
+    font-weight:bold;
+    font-size:18px;
+    text-align:right;
+    display:block;
+    
+}
+.sheelon label{
+    color:gray;
+    font-weight:bold;
+    font-size:18px;
+   
+    
+}
+.sheelon input[type="text"],
+.sheelon input[type="email"],
+.sheelon input[type="date"],
+.sheelon input[type="number"],
+.sheelon input[type="tel"],
+.sheelon textarea
+ {
+    margin-top:10px;
+    margin-bottom:20px;
+    display:block;
+height:20px;
+width:150px;
+background-color:#f3f4f0;
+
+}
+.sheelon textarea{
+    height:150px;
+    width:80%;
+    margin-bottom:100px;
+     
+}
+
+.sheelon input[type="submit"] {
+    background-color:#93b29b;
+    color:black;
+    font-size: 20px;
+    border: none;
+    width: 100px;
+    height: 35px;
+    margin-right:80%;
+    font-family: Levenim MT;
+    
+}
+.float{
+    float:right;
+    margin-left:20px;   
+}
+.box{
+    display:block;
+  height:200px;
+   
+}
+ 
+.sheelon h2{
+ color:#9bbaa5;
+    font-weight:bold;
+    font-size:25px;
+     text-align:right;
+    text-decoration: underline;
+    display:block;
+     margin-right:0;
+     font-family: Levenim MT;
+    
+}
